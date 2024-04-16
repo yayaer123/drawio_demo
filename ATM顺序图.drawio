@@ -1,0 +1,141 @@
+<mxfile host="app.diagrams.net" modified="2024-04-16T11:39:29.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="X7GE9Zn1j4hYeCCRnMtW" version="24.2.5" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K95m7xeCuY_xFyISe_Le-14" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;align=center;" parent="1" vertex="1">
+          <mxGeometry x="90" y="80" width="20" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="K95m7xeCuY_xFyISe_Le-14" vertex="1">
+          <mxGeometry x="5" y="70" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-63" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="K95m7xeCuY_xFyISe_Le-14" vertex="1">
+          <mxGeometry x="5" y="347.5" width="10" height="192.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-16" value="：键盘" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" parent="1" vertex="1">
+          <mxGeometry x="270" y="80" width="60" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-17" value="：屏幕" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" parent="1" vertex="1">
+          <mxGeometry x="365" y="80" width="60" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="K95m7xeCuY_xFyISe_Le-17" vertex="1">
+          <mxGeometry x="25" y="150" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="K95m7xeCuY_xFyISe_Le-17" vertex="1">
+          <mxGeometry x="25" y="420" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-18" value="：中央系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" parent="1" vertex="1">
+          <mxGeometry x="460" y="80" width="80" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="K95m7xeCuY_xFyISe_Le-18" vertex="1">
+          <mxGeometry x="35" y="90" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-27" value="1.1.验证卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="K95m7xeCuY_xFyISe_Le-78" target="K95m7xeCuY_xFyISe_Le-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="165" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-28" value="1.2.卡有效性" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" source="K95m7xeCuY_xFyISe_Le-26" target="K95m7xeCuY_xFyISe_Le-78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-29" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="210" width="560" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-38" value="[卡无效］" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="105" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-57" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry y="340" width="640" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-58" value="[卡有效］" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="95" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-59" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="380" width="610" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-60" value="[密码无效］" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="95" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-64" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="295" y="435" width="10" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-66" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="495" y="447.5" width="10" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-67" value="2.1.验证密码" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="K95m7xeCuY_xFyISe_Le-64" target="K95m7xeCuY_xFyISe_Le-66" edge="1">
+          <mxGeometry x="-0.4211" relative="1" as="geometry">
+            <mxPoint x="425" y="455" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-68" value="2.2.密码有效性" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" source="K95m7xeCuY_xFyISe_Le-66" target="K95m7xeCuY_xFyISe_Le-64" edge="1">
+          <mxGeometry x="0.4211" relative="1" as="geometry">
+            <mxPoint x="425" y="525" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-76" value="：读卡器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" parent="1" vertex="1">
+          <mxGeometry x="165" y="80" width="60" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-78" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="K95m7xeCuY_xFyISe_Le-76" vertex="1">
+          <mxGeometry x="25" y="80" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-80" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="K95m7xeCuY_xFyISe_Le-76" vertex="1">
+          <mxGeometry x="30" y="184" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-81" value="1.4.退出卡" style="html=1;align=left;spacingLeft=2;endArrow=open;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;endFill=0;" parent="K95m7xeCuY_xFyISe_Le-76" target="K95m7xeCuY_xFyISe_Le-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35" y="164" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="65" y="194" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-79" value="1.插入卡" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;" parent="1" source="K95m7xeCuY_xFyISe_Le-19" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="150" as="sourcePoint" />
+            <mxPoint x="190" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-83" value="2.输入密码" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;endFill=0;" parent="1" source="K95m7xeCuY_xFyISe_Le-63" target="K95m7xeCuY_xFyISe_Le-64" edge="1">
+          <mxGeometry x="-0.4211" width="80" relative="1" as="geometry">
+            <mxPoint x="150" y="440" as="sourcePoint" />
+            <mxPoint x="230" y="440" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-84" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="560" width="590" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-86" value="2.4.退出卡" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;endFill=0;" parent="1" source="K95m7xeCuY_xFyISe_Le-63" target="K95m7xeCuY_xFyISe_Le-87" edge="1">
+          <mxGeometry x="0.0118" width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="580" as="sourcePoint" />
+            <mxPoint x="190" y="580" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K95m7xeCuY_xFyISe_Le-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="190" y="575" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFAiuzcuTYm3YoLVVBwT-2" value="1.3.显示卡无效" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="234.5" as="sourcePoint" />
+            <mxPoint x="390" y="234.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFAiuzcuTYm3YoLVVBwT-5" value="2.3.显示密码无效" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;" parent="1" source="K95m7xeCuY_xFyISe_Le-64" target="K95m7xeCuY_xFyISe_Le-70" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="sourcePoint" />
+            <mxPoint x="400" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
