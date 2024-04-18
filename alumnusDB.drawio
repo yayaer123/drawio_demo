@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T12:10:30.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="XXzrjmH05UHd56ozgNi3" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T12:14:44.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="sp2Kfrj1c_v-nWNzqTVo" version="24.2.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -27,10 +27,19 @@
           <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xoI1BLcpr9TrfaPX8YL6-3" value="company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xoI1BLcpr9TrfaPX8YL6-5" value="毕业" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="185" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xoI1BLcpr9TrfaPX8YL6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xoI1BLcpr9TrfaPX8YL6-12" target="xoI1BLcpr9TrfaPX8YL6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoI1BLcpr9TrfaPX8YL6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xoI1BLcpr9TrfaPX8YL6-12" target="xoI1BLcpr9TrfaPX8YL6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoI1BLcpr9TrfaPX8YL6-12" value="就职" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
