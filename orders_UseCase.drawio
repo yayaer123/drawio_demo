@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T08:35:14.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.2.7" etag="eoXFtAgHP3S8F3LBLgTh" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T10:29:02.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="U6irtIT0b5Ntyuf5fR4H" version="24.2.8" type="github">
   <diagram name="第 1 页" id="MpWkzoGdS-z-kFXsXtoj">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L59KLt6tr_QJb7vC3T5U-1" value="订单处理系统" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="370" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="L59KLt6tr_QJb7vC3T5U-2" value="客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L59KLt6tr_QJb7vC3T5U-3" value="仓库" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L59KLt6tr_QJb7vC3T5U-4" value="客户代表" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L59KLt6tr_QJb7vC3T5U-6" value="会计系统" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L59KLt6tr_QJb7vC3T5U-10" value="运输公司" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
