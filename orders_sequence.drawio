@@ -1,20 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T13:58:25.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="hWFMwdLBCPPHrQ8dRXXk" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T14:04:02.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="UwiMoVjkF_4j_TTFMd73" version="24.3.0" type="github">
   <diagram name="第 1 页" id="8KKGMYm-_M99mrLBJ9Gx">
     <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dRkNlsJSfaEs8X3FJdG3-3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="270" y="40" width="50" height="300" as="geometry" />
+        <mxCell id="dRkNlsJSfaEs8X3FJdG3-3" value=":系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="50" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="dRkNlsJSfaEs8X3FJdG3-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="25" width="50" height="330" as="geometry" />
+        <mxCell id="dRkNlsJSfaEs8X3FJdG3-7" value=":web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="50" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="dRkNlsJSfaEs8X3FJdG3-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=40;" vertex="1" parent="dRkNlsJSfaEs8X3FJdG3-4">
-          <mxGeometry x="15" y="30" width="20" height="300" as="geometry" />
+        <mxCell id="dRkNlsJSfaEs8X3FJdG3-8" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="20" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="dRkNlsJSfaEs8X3FJdG3-2" value="客户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dRkNlsJSfaEs8X3FJdG3-4">
-          <mxGeometry width="50" height="30" as="geometry" />
+        <mxCell id="dRkNlsJSfaEs8X3FJdG3-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dRkNlsJSfaEs8X3FJdG3-8">
+          <mxGeometry x="5" y="60" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dRkNlsJSfaEs8X3FJdG3-9" value="下订单" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="dRkNlsJSfaEs8X3FJdG3-8">
+          <mxGeometry x="0.0072" width="60" relative="1" as="geometry">
+            <mxPoint x="90" y="140" as="sourcePoint" />
+            <mxPoint x="150" y="150" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dRkNlsJSfaEs8X3FJdG3-12" value=":客户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="38" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dRkNlsJSfaEs8X3FJdG3-13" value=":仓库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="50" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
