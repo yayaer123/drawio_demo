@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T17:06:13.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="K58qccOVDjtR89FcMGY8" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T17:08:09.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="S9c2Mu0R1dLiLkuNwHeu" version="24.3.1" type="github">
   <diagram name="第 1 页" id="iS2a60_tPsdYmFYTvFrb">
     <mxGraphModel dx="2316" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uNuYassweOe9VRmXsPLE-31" value="OrderList" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="292" width="240" height="242" as="geometry" />
+          <mxGeometry x="257.5" y="292" width="240" height="268" as="geometry" />
         </mxCell>
         <mxCell id="uNuYassweOe9VRmXsPLE-32" value="- orderListID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uNuYassweOe9VRmXsPLE-31">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
@@ -124,17 +124,20 @@
         <mxCell id="uNuYassweOe9VRmXsPLE-36" value="- orderListState" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uNuYassweOe9VRmXsPLE-31">
           <mxGeometry y="130" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uNuYassweOe9VRmXsPLE-37" value="- orderCustomerInfo: OrderCustomerInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uNuYassweOe9VRmXsPLE-31">
+        <mxCell id="uNuYassweOe9VRmXsPLE-109" value="-&amp;nbsp;&lt;span style=&quot;color: rgb(5, 7, 59); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 12.75px; background-color: rgba(27, 31, 35, 0.05);&quot;&gt;customer: C&lt;/span&gt;&lt;span style=&quot;color: rgb(5, 7, 59); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 12.75px; background-color: rgba(27, 31, 35, 0.05);&quot;&gt;ustomer&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uNuYassweOe9VRmXsPLE-31">
           <mxGeometry y="156" width="240" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="uNuYassweOe9VRmXsPLE-37" value="- orderCustomerInfo: OrderCustomerInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uNuYassweOe9VRmXsPLE-31">
+          <mxGeometry y="182" width="240" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="uNuYassweOe9VRmXsPLE-38" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="uNuYassweOe9VRmXsPLE-31">
-          <mxGeometry y="182" width="240" height="8" as="geometry" />
+          <mxGeometry y="208" width="240" height="8" as="geometry" />
         </mxCell>
         <mxCell id="uNuYassweOe9VRmXsPLE-39" value="+ getter()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uNuYassweOe9VRmXsPLE-31">
-          <mxGeometry y="190" width="240" height="26" as="geometry" />
+          <mxGeometry y="216" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uNuYassweOe9VRmXsPLE-40" value="+ alterOrderItem()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uNuYassweOe9VRmXsPLE-31">
-          <mxGeometry y="216" width="240" height="26" as="geometry" />
+          <mxGeometry y="242" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uNuYassweOe9VRmXsPLE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="uNuYassweOe9VRmXsPLE-42" target="uNuYassweOe9VRmXsPLE-17">
           <mxGeometry relative="1" as="geometry" />
