@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T12:25:54.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="2ftFXNG7TtPM1q5i9UBZ" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T12:36:08.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="dr3aT30v6AnmM-OZMycf" version="24.4.0" type="github">
   <diagram name="第 1 页" id="v9svsVmcO8N4FOGuuTbN">
-    <mxGraphModel dx="1737" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -384,7 +384,7 @@
         <mxCell id="xuJ9BlfBvtNkO1Lh41zS-122" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="xuJ9BlfBvtNkO1Lh41zS-120" vertex="1">
           <mxGeometry y="52" width="210" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="xuJ9BlfBvtNkO1Lh41zS-123" value="- generateInvoice(OrderList): Invoice" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xuJ9BlfBvtNkO1Lh41zS-120" vertex="1">
+        <mxCell id="xuJ9BlfBvtNkO1Lh41zS-123" value="- generateInvoice(OrderList)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xuJ9BlfBvtNkO1Lh41zS-120" vertex="1">
           <mxGeometry y="60" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-KnkxOnLY3eX2Sgod2eS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-KnkxOnLY3eX2Sgod2eS-1" target="xuJ9BlfBvtNkO1Lh41zS-120">
@@ -438,13 +438,42 @@
         <mxCell id="-KnkxOnLY3eX2Sgod2eS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="-KnkxOnLY3eX2Sgod2eS-26" target="-KnkxOnLY3eX2Sgod2eS-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="400" />
-              <mxPoint x="480" y="400" />
+              <mxPoint x="500" y="343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KnkxOnLY3eX2Sgod2eS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="-KnkxOnLY3eX2Sgod2eS-26" target="xuJ9BlfBvtNkO1Lh41zS-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="280" />
+              <mxPoint x="650" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-KnkxOnLY3eX2Sgod2eS-26" value="控制器、高内聚：增加订单库类用于管理订单，分离职责" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="390" y="298" width="130" height="80" as="geometry" />
+          <mxGeometry x="320" y="308" width="106" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-KnkxOnLY3eX2Sgod2eS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="-KnkxOnLY3eX2Sgod2eS-38" target="xuJ9BlfBvtNkO1Lh41zS-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="250" />
+              <mxPoint x="1200" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KnkxOnLY3eX2Sgod2eS-38" value="删除发票类" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-KnkxOnLY3eX2Sgod2eS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="-KnkxOnLY3eX2Sgod2eS-41" target="-KnkxOnLY3eX2Sgod2eS-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="460" />
+              <mxPoint x="440" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KnkxOnLY3eX2Sgod2eS-41" value="信息专家：将职责分配给直接拥有所有所需信息的类" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
