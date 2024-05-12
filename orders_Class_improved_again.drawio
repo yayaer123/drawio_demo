@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T11:36:58.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="TUeGhzGBgnHE-yGK2wkS" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T11:40:05.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="xRVH2bxmtrCE9JJMXpFu" version="24.4.0" type="github">
   <diagram name="第 1 页" id="v9svsVmcO8N4FOGuuTbN">
-    <mxGraphModel dx="2053" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2053" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -394,6 +394,16 @@
         </mxCell>
         <mxCell id="-KnkxOnLY3eX2Sgod2eS-1" value="间接性：会计系统是现有的软件模块，通过Account类作为中间类来连接两模块（相较于初版）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;" vertex="1" parent="1">
           <mxGeometry x="1250" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-KnkxOnLY3eX2Sgod2eS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-KnkxOnLY3eX2Sgod2eS-11" target="xuJ9BlfBvtNkO1Lh41zS-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KnkxOnLY3eX2Sgod2eS-11" value="控制器：客户和客户代表通过订单处理系统类类与系统交互（）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-30" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
