@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T12:23:35.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="A0DhLS4tnpbAxtZ-U_2F" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T12:25:01.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="MVcHF656g8aAQWBg1x2f" version="24.4.0" type="github">
   <diagram name="第 1 页" id="v9svsVmcO8N4FOGuuTbN">
     <mxGraphModel dx="1226" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,7 +443,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-KnkxOnLY3eX2Sgod2eS-26" value="控制器：增加订单库类用于管理订单" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="-KnkxOnLY3eX2Sgod2eS-26" value="控制器、高内聚：增加订单库类用于管理订单，分离职责" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="390" y="298" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
