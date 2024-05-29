@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T12:39:13.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="IDppsv0UZyOfrRF__gBm" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-29T12:39:43.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="6gGXU1VtPdZhcGJp9ujP" version="24.4.9" type="github" pages="2">
   <diagram name="第 1 页" id="YoLmvKz0ONcq8kvsNemW">
     <mxGraphModel dx="1489" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -510,7 +510,7 @@
           <mxGeometry x="15" y="80" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nKk6fxJ66mCRScQFEKJk-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="O84-G-m1ZNIOKZWSMr2E-4">
-          <mxGeometry x="15" y="220" width="10" height="60" as="geometry" />
+          <mxGeometry x="15" y="220" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O84-G-m1ZNIOKZWSMr2E-5" value="物流系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="40" height="600" as="geometry" />
@@ -587,8 +587,8 @@
         </mxCell>
         <mxCell id="mpxW0WKWoIexSzacrJgf-3" value="是否成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="285" y="340" as="targetPoint" />
-            <mxPoint x="355" y="340" as="sourcePoint" />
+            <mxPoint x="285" y="330" as="targetPoint" />
+            <mxPoint x="355" y="330" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
