@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T12:00:34.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="7zdNPSUvDuVpFFQ3TYyO" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-30T12:01:17.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="kqaFC7SlvpMvoZs79OPJ" version="24.4.9" type="github" pages="2">
   <diagram name="第 1 页" id="KBzkmNaprSQ22o6Iw5d_">
     <mxGraphModel dx="1489" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,14 +265,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Zl3zTROJnWdTKnkw4IgG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HePwX54XxlYnx6PMF9K-1" target="SQxaoPrIjRfVAXZCRufz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1HePwX54XxlYnx6PMF9K-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="276" y="120" width="100" height="60" as="geometry" />
+          <mxGeometry x="271" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1HePwX54XxlYnx6PMF9K-2" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="271" y="700" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zl3zTROJnWdTKnkw4IgG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQxaoPrIjRfVAXZCRufz-1" target="SQxaoPrIjRfVAXZCRufz-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="326" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SQxaoPrIjRfVAXZCRufz-1" value="待释放的&lt;div&gt;内存块首地址&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="276" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="271" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SQxaoPrIjRfVAXZCRufz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQxaoPrIjRfVAXZCRufz-2" target="SQxaoPrIjRfVAXZCRufz-3">
           <mxGeometry relative="1" as="geometry" />
