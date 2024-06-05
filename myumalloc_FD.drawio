@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T14:13:27.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Eulf0fxZC8SI9Q8zIZ0O" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-05T14:15:20.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="AnNn4SBBDS6mf0WC2W2e" version="24.4.10" type="github" pages="3">
   <diagram name="第 1 页" id="KBzkmNaprSQ22o6Iw5d_">
     <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
           <mxGeometry x="271" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1HePwX54XxlYnx6PMF9K-2" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="105" y="632.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="271" y="770" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zl3zTROJnWdTKnkw4IgG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SQxaoPrIjRfVAXZCRufz-1" target="SQxaoPrIjRfVAXZCRufz-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SQxaoPrIjRfVAXZCRufz-1" value="待释放的&lt;div&gt;内存块首地址&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
-          <mxGeometry x="271" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="264.5" y="210" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zl3zTROJnWdTKnkw4IgG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SQxaoPrIjRfVAXZCRufz-2" target="Zl3zTROJnWdTKnkw4IgG-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -259,11 +259,11 @@
         <mxCell id="Zl3zTROJnWdTKnkw4IgG-4" value="将紧邻的空闲块和待释放块合并" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="490" y="510" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zl3zTROJnWdTKnkw4IgG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zl3zTROJnWdTKnkw4IgG-7" target="1HePwX54XxlYnx6PMF9K-2" edge="1">
+        <mxCell id="Zl3zTROJnWdTKnkw4IgG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zl3zTROJnWdTKnkw4IgG-7" target="E1-gLVHjm3kgqtYbl2Kf-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zl3zTROJnWdTKnkw4IgG-7" value="将内存块插入到链表中" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="276" y="640" width="90" height="45" as="geometry" />
+          <mxGeometry x="276" y="630" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Zl3zTROJnWdTKnkw4IgG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zl3zTROJnWdTKnkw4IgG-9" target="Zl3zTROJnWdTKnkw4IgG-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -296,6 +296,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E1-gLVHjm3kgqtYbl2Kf-3" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zl3zTROJnWdTKnkw4IgG-27">
+          <mxGeometry x="0.1111" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Zl3zTROJnWdTKnkw4IgG-22" value="剩余块指针是否&lt;div&gt;存储有空闲块&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="430" y="195" width="134" height="75" as="geometry" />
         </mxCell>
@@ -309,6 +314,12 @@
         </mxCell>
         <mxCell id="Zl3zTROJnWdTKnkw4IgG-26" value="尝试与该空闲块合并" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E1-gLVHjm3kgqtYbl2Kf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E1-gLVHjm3kgqtYbl2Kf-1" target="1HePwX54XxlYnx6PMF9K-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1-gLVHjm3kgqtYbl2Kf-1" value="更新oversizeBlockCount" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="266" y="700" width="111" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
