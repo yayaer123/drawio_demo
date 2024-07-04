@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T03:54:02.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="EKHx1MtOlk-pqB0iJDIx" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T03:57:28.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="yKkbWsmQnyC0m1jokQGp" version="24.6.4" type="github">
   <diagram name="第 1 页" id="LLOimiUJxIWVnBvx53SA">
     <mxGraphModel dx="2316" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,16 +7,13 @@
         <mxCell id="FIMOuDOS6CexBFZZuyrf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-1" target="FIMOuDOS6CexBFZZuyrf-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10" y="435" />
+              <mxPoint x="40" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-1" target="FIMOuDOS6CexBFZZuyrf-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="525" />
-              <mxPoint x="100" y="525" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIMOuDOS6CexBFZZuyrf-1" target="FIMOuDOS6CexBFZZuyrf-3" edge="1">
@@ -29,72 +26,71 @@
         <mxCell id="FIMOuDOS6CexBFZZuyrf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-1" target="FIMOuDOS6CexBFZZuyrf-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-20" y="325" />
+              <mxPoint y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-1" target="FIMOuDOS6CexBFZZuyrf-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-50" y="235" />
+              <mxPoint x="-40" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q5HNf-5_jHMRwpcQ8X-9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIMOuDOS6CexBFZZuyrf-1" target="FIMOuDOS6CexBFZZuyrf-17">
+        <mxCell id="q5HNf-5_jHMRwpcQ8X-9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="FIMOuDOS6CexBFZZuyrf-1" target="FIMOuDOS6CexBFZZuyrf-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="650" />
-              <mxPoint x="590" y="650" />
+              <mxPoint y="725" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-100" y="467.5" width="180" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="FIMOuDOS6CexBFZZuyrf-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIMOuDOS6CexBFZZuyrf-3" target="FIMOuDOS6CexBFZZuyrf-15" edge="1">
+        <mxCell id="FIMOuDOS6CexBFZZuyrf-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-3" target="FIMOuDOS6CexBFZZuyrf-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-3" value="评论" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="820" width="100" height="50" as="geometry" />
+          <mxGeometry x="-110" y="857.5" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FIMOuDOS6CexBFZZuyrf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIMOuDOS6CexBFZZuyrf-11" target="FIMOuDOS6CexBFZZuyrf-17" edge="1">
+        <mxCell id="FIMOuDOS6CexBFZZuyrf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-11" target="FIMOuDOS6CexBFZZuyrf-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="530" />
-              <mxPoint x="530" y="530" />
+              <mxPoint x="410" y="725" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FIMOuDOS6CexBFZZuyrf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIMOuDOS6CexBFZZuyrf-11" target="FIMOuDOS6CexBFZZuyrf-37" edge="1">
+        <mxCell id="FIMOuDOS6CexBFZZuyrf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-11" target="FIMOuDOS6CexBFZZuyrf-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="300" />
+              <mxPoint x="580" y="534" />
+              <mxPoint x="580" y="534" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-11" value="社团" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="310" y="472.5" width="160" height="105" as="geometry" />
+          <mxGeometry x="330" y="460" width="200" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-15" value="动态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="490" y="782.5" width="200" height="125" as="geometry" />
+          <mxGeometry x="110" y="820" width="200" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="FIMOuDOS6CexBFZZuyrf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIMOuDOS6CexBFZZuyrf-17" target="FIMOuDOS6CexBFZZuyrf-15" edge="1">
+        <mxCell id="FIMOuDOS6CexBFZZuyrf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-17" target="FIMOuDOS6CexBFZZuyrf-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-17" value="发布" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="540" y="505" width="100" height="50" as="geometry" />
+          <mxGeometry x="160" y="700" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-19" target="FIMOuDOS6CexBFZZuyrf-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="435" />
+              <mxPoint x="400" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-19" value="收藏" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="410" width="100" height="50" as="geometry" />
+          <mxGeometry x="200" y="390" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-20" target="FIMOuDOS6CexBFZZuyrf-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -105,36 +101,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-20" value="参与" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="140" y="500" width="100" height="50" as="geometry" />
+          <mxGeometry x="150" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-31" target="FIMOuDOS6CexBFZZuyrf-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="325" />
+              <mxPoint x="440" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-31" value="申请" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="300" width="100" height="50" as="geometry" />
+          <mxGeometry x="120" y="300" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-34" value="活动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="715" y="245" width="200" height="110" as="geometry" />
+          <mxGeometry x="760" y="478.75" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FIMOuDOS6CexBFZZuyrf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIMOuDOS6CexBFZZuyrf-37" target="FIMOuDOS6CexBFZZuyrf-34" edge="1">
+        <mxCell id="FIMOuDOS6CexBFZZuyrf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-37" target="FIMOuDOS6CexBFZZuyrf-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-37" value="发布" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="510" y="275" width="100" height="50" as="geometry" />
+          <mxGeometry x="590" y="508.75" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-41" target="FIMOuDOS6CexBFZZuyrf-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="235" />
+              <mxPoint x="480" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-41" value="消息" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="210" width="100" height="50" as="geometry" />
+          <mxGeometry x="50" y="210" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
