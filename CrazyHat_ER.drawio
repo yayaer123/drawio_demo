@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T03:59:33.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Uh_LfYhyEQz2tZCXReH4" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T07:09:35.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="s-0StkqMsz8Y04VcDW_e" version="24.6.4" type="github">
   <diagram name="第 1 页" id="LLOimiUJxIWVnBvx53SA">
-    <mxGraphModel dx="2316" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2430" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q5HNf-5_jHMRwpcQ8X-9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="FIMOuDOS6CexBFZZuyrf-1" target="FIMOuDOS6CexBFZZuyrf-17">
+        <mxCell id="q5HNf-5_jHMRwpcQ8X-9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-1" target="FIMOuDOS6CexBFZZuyrf-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="40" y="665" />
@@ -61,6 +61,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="MDEcSLjXO-pG_24RIZZK-1" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIMOuDOS6CexBFZZuyrf-38">
+          <mxGeometry x="-0.426" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-11" value="社团" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontFamily=Helvetica;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="460" width="200" height="147.5" as="geometry" />
         </mxCell>
@@ -70,7 +75,7 @@
         <mxCell id="FIMOuDOS6CexBFZZuyrf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=20;fontFamily=Helvetica;textShadow=1;" parent="1" source="FIMOuDOS6CexBFZZuyrf-17" target="FIMOuDOS6CexBFZZuyrf-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q5HNf-5_jHMRwpcQ8X-9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="FIMOuDOS6CexBFZZuyrf-17" target="FIMOuDOS6CexBFZZuyrf-11">
+        <mxCell id="q5HNf-5_jHMRwpcQ8X-9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-17" target="FIMOuDOS6CexBFZZuyrf-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-17" value="发布" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;fontFamily=Helvetica;textShadow=1;" parent="1" vertex="1">
@@ -113,6 +118,11 @@
         <mxCell id="FIMOuDOS6CexBFZZuyrf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=20;fontFamily=Helvetica;textShadow=1;" parent="1" source="FIMOuDOS6CexBFZZuyrf-37" target="FIMOuDOS6CexBFZZuyrf-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MDEcSLjXO-pG_24RIZZK-2" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FIMOuDOS6CexBFZZuyrf-39">
+          <mxGeometry x="0.2835" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FIMOuDOS6CexBFZZuyrf-37" value="发布" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;fontFamily=Helvetica;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="508.75" width="100" height="50" as="geometry" />
         </mxCell>
@@ -126,7 +136,7 @@
         <mxCell id="FIMOuDOS6CexBFZZuyrf-41" value="消息" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;fontFamily=Helvetica;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="210" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="q5HNf-5_jHMRwpcQ8X-9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FIMOuDOS6CexBFZZuyrf-3" target="FIMOuDOS6CexBFZZuyrf-3">
+        <mxCell id="q5HNf-5_jHMRwpcQ8X-9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FIMOuDOS6CexBFZZuyrf-3" target="FIMOuDOS6CexBFZZuyrf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
