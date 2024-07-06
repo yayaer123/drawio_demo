@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T01:06:48.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="gG9xbw2cBUH7auE4qGNa" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-06T01:09:52.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Hce79M1hHi-M-bDvjWnD" version="24.6.4" type="github" pages="2">
   <diagram name="第 1 页" id="LLOimiUJxIWVnBvx53SA">
     <mxGraphModel dx="2430" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
         <mxCell id="VRUPHt01AmVPWFVs4YQX-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VRUPHt01AmVPWFVs4YQX-27" target="VRUPHt01AmVPWFVs4YQX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VRUPHt01AmVPWFVs4YQX-27" value="社团：&lt;div&gt;不可被搜索，&lt;/div&gt;&lt;div&gt;不可被推荐，&lt;/div&gt;&lt;div&gt;不可被申请加入，&lt;/div&gt;&lt;div&gt;不可发布动态&lt;/div&gt;&lt;div&gt;已发布动态可见&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="VRUPHt01AmVPWFVs4YQX-27" value="社团：&lt;div&gt;不可被搜索，&lt;/div&gt;&lt;div&gt;不可被推荐，&lt;/div&gt;&lt;div&gt;不可被申请加入，&lt;/div&gt;&lt;div&gt;不可发布动态&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-40" y="165" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
